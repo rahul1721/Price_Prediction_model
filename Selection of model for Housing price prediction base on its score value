@@ -1,0 +1,18 @@
+1. Score values by considering Decision Tree Regressor 
+    Score Value : [3.79196841 5.42287387 6.8745909  2.80309063 4.7601208  5.42210752 9.12336287 3.96304807 7.19531097 3.62046268]
+    Mean of score : 5.297693670584368
+    Standard Deviation of Score : 1.847378417258565
+    
+2. Score values by considering Linear Regressor 
+    Score Value : [4.21217607 4.25134684 5.12456495 3.94634142 5.33677343 4.307206 8.94467464 5.51462825 4.15799271 6.07144802]
+    Mean of score : 5.1867152332610305
+    Standard Deviation of Score : 1.4224588708549013
+    
+3. Score values by considering Random Forest Regressor
+    Score Value : [3.04961208 3.55168404 4.5739885  2.66503237 3.20068875 2.82114124 6.70210842 3.35630576 3.33969244 3.50179201]
+    Mean of score : 3.67620456086575
+    Standard Deviation of Score : 1.12231665764325
+
+
+
+On above values we are concluding, Random Forest Regressor Is giving very low value of Error and hence we are finalizing Random Forest Regressor
